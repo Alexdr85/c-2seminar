@@ -1,0 +1,5 @@
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie2/obj/Debug/net7.0/zadanie2.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie2/obj/Debug/net7.0/zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie2/obj/Debug/net7.0/zadanie2.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie2/obj/Debug/net7.0/zadanie2.AssemblyInfo.cs
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie2/obj/Debug/net7.0/zadanie2.csproj.CoreCompileInputs.cache

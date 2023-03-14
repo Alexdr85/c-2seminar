@@ -1,14 +1,43 @@
-﻿//Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
-//645 -> 5
-//78 -> третьей цифры нет
-//32679 -> 6
+﻿//Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 
-int Prompt(string messege)
+//6 -> да
+//7 -> да
+//1 -> нет
+
+int Prompt(string massage)
 {
-    Console.Write(messege);
-    String value = Console.ReadLine();
-    int result = Convert.ToInt32(value);
+    Console.Write(massage);
+    string value = Convert.ToInt32(value);
     return result;
 }
 
-int
+bool IsWeeked(int weekDay)
+{
+    if (weekDay>5)
+    {
+        return true;
+    }
+    return false;
+}
+bool ValidateWeekday(int number)
+{
+    if (number > 0 && number <= 7)
+    {
+        return true;
+    }
+    Console.WriteLine("это не день недели");
+    return false;
+}
+
+int weekDay = Prompt("введите день недели >");
+if (ValidateWeekday(weekDay))
+{
+    if (IsWeeken(weekDay))
+    {
+        Console.WriteLine("наконец то выходной");
+    }
+    else
+    {
+        Console.WriteLine("придется поработать");
+    }
+}
