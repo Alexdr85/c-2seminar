@@ -4,7 +4,6 @@
 //782 -> 8
 //918 -> 1
 
-
 Console.Clear();
 int n = Convert.ToInt32(Console.ReadLine());
 int s = (n/10)%10;

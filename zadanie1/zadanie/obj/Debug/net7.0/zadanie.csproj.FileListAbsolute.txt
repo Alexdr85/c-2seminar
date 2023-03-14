@@ -1,0 +1,15 @@
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie/obj/Debug/net7.0/zadanie.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie/obj/Debug/net7.0/zadanie.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie/obj/Debug/net7.0/zadanie.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie/obj/Debug/net7.0/zadanie.AssemblyInfo.cs
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie/obj/Debug/net7.0/zadanie.csproj.CoreCompileInputs.cache
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie/bin/Debug/net7.0/zadanie
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie/bin/Debug/net7.0/zadanie.deps.json
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie/bin/Debug/net7.0/zadanie.runtimeconfig.json
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie/bin/Debug/net7.0/zadanie.dll
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie/bin/Debug/net7.0/zadanie.pdb
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie/obj/Debug/net7.0/zadanie.dll
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie/obj/Debug/net7.0/refint/zadanie.dll
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie/obj/Debug/net7.0/zadanie.pdb
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie/obj/Debug/net7.0/zadanie.genruntimeconfig.cache
+/home/user/Рабочий стол/c#massiv/c-2seminar/zadanie1/zadanie/obj/Debug/net7.0/ref/zadanie.dll
